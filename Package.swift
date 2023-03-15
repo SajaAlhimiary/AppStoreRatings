@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Nano2",
+    name: "AppStoreRatings",
     platforms: [
        .macOS(.v12)
     ],
