@@ -7,6 +7,15 @@
 ## The Challenge Statement:
 ### Learn backend development by creating  a RESTful API using vapor and Fluent integrated with PSQL database.
 
+## Feature List:
+### - Create a new games.
+### - Get platform and display them to the user.
+### - Get platform by specific id.
+### - Get games in each platform and display them to the user.
+### - update games.
+### - Delete games.
+
+
 ## The Solution Concept:
 ### A platform that provides players to discover the games that have the best rating in the current period for different gaming platforms.
 
@@ -26,7 +35,7 @@
 
 ## Challenge Team:
 ### - Saja Alhimiary
-### - Shahad Ba Makhshab
+- <a href="https://github.com/shahad2023">Shahad Ba Makhshab</a>
 ### - Raghad Al-asmari
 
 
