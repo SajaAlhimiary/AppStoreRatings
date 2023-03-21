@@ -39,7 +39,7 @@
 ### - PostgreSQL
 
 ## Screen Shots For CRUD Opiration:
-<img width="1512" alt="Screenshot 1444-08-28 at 11 50 58 AM" src="https://user-images.githubusercontent.com/116798725/226597223-1f0cf1cf-7c7a-4de2-ad9c-885fc6a7b9b8.png">
+<img width="1091" alt="Screenshot 1444-08-28 at 11 50 49AM" src="https://user-images.githubusercontent.com/116798725/226598158-ec2e93f5-a7d7-4dda-ad7b-e01cb0753bf5.png">
 <img width="1512" alt="Screenshot 1444-08-28 at 11 50 58 AM" src="https://user-images.githubusercontent.com/116798725/226597248-3b7b26ad-2646-44d9-9469-02bc78ba753f.png">
 <img width="511" alt="Screenshot 1444-08-29 at 1 01 49 PM" src="https://user-images.githubusercontent.com/116798725/226597268-76ad823d-cd68-406e-a686-04875bebfa6f.png">
 
