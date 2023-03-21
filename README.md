@@ -44,7 +44,7 @@
 <img width="511" alt="Screenshot 1444-08-29 at 1 01 49 PM" src="https://user-images.githubusercontent.com/116798725/226597268-76ad823d-cd68-406e-a686-04875bebfa6f.png">
 
 ## *note:
-
+### - in the platform file(Pname=platform name)
 
 ## Challenge Team:
 - <a href="https://github.com/SajaAlhimiary"> Saja Alhimiary</a>
