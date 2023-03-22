@@ -8,12 +8,13 @@
 ### Learn backend development by creating  a RESTful API using vapor and Fluent integrated with PSQL database.
 
 ## Feature List:
-### - Create a new games.
-### - Get platform and display them to the user.
-### - Get platform by specific id.
-### - Get games in each platform and display them to the user.
-### - update games.
-### - Delete games.
+### - Add a new game.
+### - Get all the games.
+### - Get all the ratings of the games.
+### - Get all the years of the games.
+### - Get all the platforms of the games.
+### - Update the ratings of the games.
+### - Delete the game.
 
 
 ## The Solution Concept:
